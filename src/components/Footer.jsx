@@ -41,12 +41,11 @@ const Footer = () => {
 					Gmail
 				</a>
 				<a
-					href='https://www.linkedin.com/in/bogdan-mastacan-353b8b183/'
+					href='https://www.linkedin.com/in/bobby-mastacan-353b8b183/'
 					target='_blank'
 				>
 					Linkedin
 				</a>
-				<a href=''>Whatsapp</a>
 			</div>
 			<p>© 2024 BM. All rights reserved.</p>
 		</div>

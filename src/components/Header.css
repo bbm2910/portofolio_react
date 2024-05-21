@@ -1,11 +1,10 @@
 .btns .btn {
 	background-color: #000;
-	margin: 5% 0;
+	margin: 5% 100%;
 	padding: 2px 5px;
 	border: none;
 	cursor: pointer;
 }
-
 .menu {
 	position: fixed;
 	bottom: 20%;
@@ -31,7 +30,7 @@ button::after {
 	font-weight: 700;
 }
 .menu button::after {
-	--slice-0: inset(100% 50% 50% 50%);
+	--slice-0: inset(10% 50% 50% 50%);
 	--slice-1: inset(80% -6px 0 0);
 	--slice-2: inset(50% -16px 50% 0);
 	--slice-3: inset(90% -6px 85% 0);
@@ -48,22 +47,22 @@ button::after {
 		90deg,
 		transparent 3%,
 		#000 3%,
-		#a6f6ff 5%,
-		#577ff1 5%
+		#a6f6ff 50%,
+		#577ff1 50%
 	);
 	clip-path: var(--slice-0);
 	height: 26px;
 }
 
 .menu button:hover::after {
-	animation: 0.5s glitch;
+	animation: 0.2s glitch;
 	animation-timing-function: steps(1, end);
 }
 
 @keyframes glitch {
 	0% {
 		clip-path: var(--slice-1);
-		transform: translate(-20px, -10px);
+		transform: translate(-10px, -10px);
 	}
 
 	10% {

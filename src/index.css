@@ -74,7 +74,19 @@ h6 {
 }
 @media screen and (max-width: 480px) {
 	.title {
-		display: none;
+		/* display: none; */
+		margin-top: 15%;
+	}
+	.title h1 {
+		font-size: 2rem;
+		font-weight: 100;
+		color: var(--secondary-color);
+		-webkit-text-fill-color: initial;
+	}
+	.title p {
+		margin: 0;
+		font-weight: 200;
+		font-size: 0.9rem;
 	}
 	.sticky {
 		display: none;
@@ -113,7 +125,7 @@ h6 {
 		font-weight: 700;
 		font-size: 1rem;
 		letter-spacing: 2px;
-		text-align: end;
+		text-align: center;
 	}
 	.description p {
 		font-size: 0.9rem;
@@ -140,11 +152,26 @@ h6 {
 		letter-spacing: 2px;
 		text-align: end;
 	}
+	.html-logo {
+		width: 10%;
+	}
+	.css-logo {
+		width: 10%;
+	}
 	.js-logo {
-		width: 18%;
+		width: 10%;
 	}
 	.react-logo {
-		width: 8%;
+		width: 10%;
+	}
+	.node-logo {
+		width: 10%;
+	}
+	.mongodb-logo {
+		width: 10%;
+	}
+	.express-logo {
+		width: 10%;
 	}
 	.construction-icon {
 		width: 10%;

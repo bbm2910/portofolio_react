@@ -2,7 +2,7 @@
 	scroll-margin-top: 150px;
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	gap: 5%;
+	gap: 1%;
 	margin-bottom: 30%;
 }
 .all-projects h2 {
@@ -28,14 +28,13 @@
 	line-height: 1.5;
 }
 .project a img {
-	margin: 5% auto;
+	margin: 50% auto;
 }
 
 .project div span {
-	font-weight: 500;
+	font-weight: 200;
 	font-size: 0.8rem;
 	padding: 2px 10px;
-	border-radius: 10px 0 0 0;
 	letter-spacing: 2px;
 	color: #a6f6ff;
 	display: block;
@@ -71,4 +70,7 @@
 	transform: translateY(100%);
 	opacity: 1;
 	color: #fff;
+}
+.technologies{
+	font-size: .6rem;
 }

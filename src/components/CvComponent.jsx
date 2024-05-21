@@ -1,7 +1,12 @@
 import './CvComponent.css';
 import ContructionIcon from '../assets/icons8-construction-manager-64.png';
-import JsIcon from '../assets/javascript-39422.png';
-import ReactIcon from '../assets/react.png';
+import ReactIcon from '../assets/react.svg';
+import HtmlIcon from '../assets/html.svg';
+import CssIcon from '../assets/css.svg';
+import JsIcon from '../assets/js.svg';
+import NodeIcon from '../assets/nodejs.svg';
+import ExpressIcon from '../assets/express.svg';
+import MongoIcon from '../assets/mongo.svg';
 import RulerIcon from '../assets/icons8-ruler-48.png';
 import CameraIcon from '../assets/icons8-documentary-50.png';
 import EducationIcon from '../assets/education.png';
@@ -14,54 +19,48 @@ const CvComponent = ({ reference }) => {
 				<p className='cv-date'>2022 - Present</p>
 				<div>
 					<p className='cv-section-title'>
-						Advanced Web Development Studies and Beyond
+						Web Development Studies
 					</p>
-					<img src={JsIcon} alt='js logo' className='js-logo'></img>
+					<img src={HtmlIcon} alt='html logo' className='html-logo'></img>
+					<img src={CssIcon} alt='css logo' className='css-logo'></img>
+					<img src={JsIcon} alt='java script logo' className='js-logo'></img>
 					<img
 						src={ReactIcon}
 						alt='react logo'
 						className='react-logo'
 					></img>
+					<img src={NodeIcon} alt='node logo' className='node-logo'></img>
+					<img src={ExpressIcon} alt='express logo' className='express-logo'></img>
+					<img src={MongoIcon} alt='mongodb logo' className='mongodb-logo'></img>
 					<ul>
-						<li className='li'>
-							Crafted an immersive B2C website for the
-							construction industry, leveraging the power of
-							content management systems. You can check it out{' '}
-							<a href='https://sermanilles.es/' target='_blank'>
-								here.
-							</a>
-						</li>
-						<li className='li'>
-							Showcased my creative prowess by building a diverse
-							range of websites, carefully handcrafting each one
-							with the magic of HTML and CSS.
-						</li>
-						<li className='li'>
-							Embarked on an enriching journey of self-improvement
-							and skill development with{' '}
+					<li className='li'>
+						Began a professional development journey focused on enhancing skills and self-improvement through{' '}
 							<a
 								href='https://www.theodinproject.com/'
 								target='_blank'
 							>
 								The Odin Project,
 							</a>{' '}
-							an immersive online course.
+							comprehensive online course.
 						</li>
 						<li className='li'>
-							Took my coding skills to the next level with The
-							Odin Project where I not only acquired theoretical
-							knowledge but also applied it practically by
-							developing interactive games and applications using{' '}
+						Developed an engaging B2C website tailored for the construction industry, utilizing content management systems to enhance user experience. For a closer look, please visit the website{' '}
+							<a href='https://sermanilles.es/' target='_blank'>
+								here.
+							</a>
+						</li>
+						<li className='li'>
+						Enhanced my coding proficiency through The Odin Project, applying theoretical knowledge to develop engaging games and applications using a variety of programming languages and frameworks including{' '}
 							<span>HTML</span> <span>CSS</span>{' '}
-							<span>JavaScript</span> and <span>React</span>.
+							<span>JavaScript</span> and <span>React</span> <span>Node.js</span> <span>Express.js</span> <span>MongoDB</span>.
 						</li>
 						<li className='li'>
-							Mastered the art of web design by finishing{' '}
+						I became more proficient in web design through the completion of{' '}
 							<a href='https://infoacademy.net/' target='_blank'>
 								Info Academy's
 							</a>{' '}
-							HTML5/CSS3 course, refining my ability to create
-							visually stunning and functional web experiences.
+							HTML/CSS course, improving my capacity to develop visually appealing and user-friendly web interfaces.
+
 						</li>
 						<li className='li'>
 							Strengthened my programming proficiency by
@@ -71,14 +70,7 @@ const CvComponent = ({ reference }) => {
 							and dynamic language.
 						</li>
 						<li className='li'>
-							Collaborated seamlessly with seasoned developers to
-							create and maintain a dynamic portfolio of
-							responsive websites. My expertise in HTML, CSS,
-							JavaScript, and content management systems (CMS)
-							played a pivotal role in this endeavor.
-							Additionally, I gained experience in consuming and
-							integrating third-party application programming
-							interfaces (APIs) into applications
+						Worked closely with experienced developers to develop and upkeep a diverse portfolio of responsive websites. My proficiency in HTML, CSS, JavaScript, and content management systems (CMS) was critical to the success of this project.
 						</li>
 						<p className='li'>
 							Check out my projects and contributions on{' '}
