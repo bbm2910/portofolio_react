@@ -1,6 +1,7 @@
 {
   "name": "portofolio",
   "private": true,
+  "homepage": "https://bbm2910.github.io/portofolio_react/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
