@@ -71,6 +71,9 @@ h6 {
 	.all-projects {
 		display: block;
 	}
+	.btns .btn {
+		margin: 15% 50%;
+	}
 }
 @media screen and (max-width: 480px) {
 	.title {
@@ -94,6 +97,8 @@ h6 {
 	.menu {
 		position: fixed;
 		top: 0%;
+		padding-top:20px;
+		background-color: #000;
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
 		height: 50px;
@@ -104,7 +109,7 @@ h6 {
 	}
 	.menu button {
 		display: inline;
-		font-size: 0.5rem;
+		font-size: 0.9rem;
 		opacity: 100%;
 	}
 	.all-projects {
