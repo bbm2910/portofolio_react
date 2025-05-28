@@ -42,7 +42,7 @@ ul {
 }
 .li a {
   text-decoration: none;
-  color: var(--btn-color);
+  color: var(--secondary-color);
   font-weight: 700;
 }
 .li a:hover {
@@ -53,7 +53,7 @@ ul {
   line-height: 1.7;
 }
 .li span {
-  background-color: #000;
+  background-color: #903749;
   padding: 0% 1%;
   opacity: 70%;
   font-weight: 200;

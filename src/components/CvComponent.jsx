@@ -44,49 +44,66 @@ const CvComponent = ({ reference }) => {
           <img src={Ansible} alt="node logo" className="docker-logo"></img>
           <ul>
             <li className="li">
-              Began a professional development journey focused on enhancing
-              skills and self-improvement through{" "}
+              Completed{" "}
               <a href="https://www.theodinproject.com/" target="_blank">
                 The Odin Project,
               </a>{" "}
-              comprehensive online course.
+              a comprehensive online course that strengthened my programming
+              proficiency across multiple technologies including{" "}
+              <span>HTML</span> <span>CSS</span> <span>JavaScript</span>{" "}
+              <span>React</span> <span>Node.js</span> <span>Express.js</span>{" "}
+              <span>MongoDB</span>. Applied this knowledge to develop engaging
+              games and applications.
             </li>
             <li className="li">
-              Developed an engaging B2C website tailored for the construction
+              {/* Developed an engaging B2C website tailored for the construction
               industry, utilizing content management systems to enhance user
               experience. For a closer look, please visit the website{" "}
               <a href="https://sermanilles.es/" target="_blank">
                 here.
-              </a>
+              </a>{" "} */}
+              Worked closely with experienced developers to develop and maintain
+              a diverse portfolio of responsive websites.
             </li>
             <li className="li">
-              Enhanced my coding proficiency through The Odin Project, applying
-              theoretical knowledge to develop engaging games and applications
-              using a variety of programming languages and frameworks including{" "}
-              <span>HTML</span> <span>CSS</span> <span>JavaScript</span> and{" "}
-              <span>React</span> <span>Node.js</span> <span>Express.js</span>{" "}
-              <span>MongoDB</span>.
-            </li>
-            <li className="li">
-              I became more proficient in web design through the completion of{" "}
-              <a href="https://infoacademy.net/" target="_blank">
-                Info Academy's
+              After completing The Odin Project, I began volunteering for the
+              <a href="https://www.scottishtecharmy.org/" target="_blank">
+                Scottish Tech Army,
               </a>{" "}
-              HTML/CSS course, improving my capacity to develop visually
-              appealing and user-friendly web interfaces.
+              , a non-profit organization that helps charities solve their
+              technology challenges, including website revamps and platform
+              optimization.
             </li>
             <li className="li">
-              Strengthened my programming proficiency by successfully completing
-              another course at InfoAcademy, this time focusing on JavaScript.
-              This course deepened my understanding of this versatile and
-              dynamic language.
+              Joined a startup through mentorship with an IT Architect, where I
+              learned <span>Flutter</span> development and implemented
+              authentication systems using <span>Firebase</span> with Realtime
+              Database.
             </li>
             <li className="li">
-              Worked closely with experienced developers to develop and upkeep a
-              diverse portfolio of responsive websites. My proficiency in HTML,
-              CSS, JavaScript, and content management systems (CMS) was critical
-              to the success of this project.
+              Developed a passion for cybersecurity through podcasts and
+              hands-on learning via <span>TryHackMe</span> platform. Gained
+              expertise in networks, Windows, Linux, virtual machines, and
+              cybersecurity foundations, culminating in earning my{" "}
+              <span>ISC2 Certified in Cybersecurity</span>
+              certification.
             </li>
+            <li className="li">
+              Joined{" "}
+              <a href="https://www.scottishtecharmy.org/" target="_blank">
+                La Fosse Academy
+              </a>{" "}
+              in march, where I was selected for the DevOps deep-dive program
+              after the initial 4 weeks. Gained proficiency in DevOps practices
+              and tools including <span>Docker</span> <span>Kubernetes</span>{" "}
+              <span>Terraform</span> <span>Azure DevOps</span> and{" "}
+              <span>AWS DevOps</span>.
+            </li>
+            {/* <li className="li">
+              Currently leading a team in developing a 4-microservice web
+              application as our final Academy project, applying the full range
+              of skills and technologies learned throughout the program.
+            </li> */}
             <p className="li">
               Check out my projects and contributions on{" "}
               <a href="https://github.com/bbm2910" target="_blank">
