@@ -1,18 +1,32 @@
-import './Description.css';
+import "./Description.css";
 const Description = ({ reference }) => {
-	return (
-		<div ref={reference} className='description'>
-			<div>
-				<h2>&lt; Welcome/&gt;</h2>
-			</div>
-			<p>
-			I'm Bobby, a versatile individual who has transitioned from a background in property services and TV production to pursue a career as a dedicated web developer. The challenges I faced in London's property market honed my problem-solving abilities, while my experience in TV production taught me how to thrive in high-pressure environments. Running my own business for three years further enhanced my creativity and entrepreneurial mindset.
-			</p>
-			<p>
-			In my current role as a Web Developer, I am committed to combining my innovative skills with technology. My diverse professional journey has equipped me with a unique perspective that allows me to effectively tackle web development challenges. I am devoted to creating user-centered digital solutions that seamlessly blend creativity and functionality. Thank you for taking the time to visit my profile, and I am eager to connect with you in the near future.
-			</p>
-		</div>
-	);
+  return (
+    <div ref={reference} className="description">
+      <div>
+        <h2>&lt; Welcome/&gt;</h2>
+      </div>
+      <p>
+        A adaptable Full Stack Developer with a unique background that includes
+        experience in television production and entrepreneurship. During my ten
+        years in news production, I developed strong skills in working under
+        pressure, and managing my own painting business in London helped me
+        enhance my problem-solving abilities. My journey into technology began
+        with self-guided learning in WordPress development, which grew into a
+        broader understanding of full-stack development through coursework from
+        The Odin Project. I have had the opportunity to volunteer with the
+        Scottish Tech Army and work with Firebase authentication within a
+        startup setting.
+      </p>
+      <p>
+        More recently, I earned the ISC2 Cybersecurity certification and
+        participated in specialized DevOps training at La Fosse Academy, gaining
+        hands-on experience with Docker, Kubernetes, and cloud platforms. I like
+        to take a practical, hands-on approach to solving development
+        challenges, blending business insights with technical expertise to
+        create effective digital solutions.
+      </p>
+    </div>
+  );
 };
 
 export default Description;

@@ -1,19 +1,20 @@
 .description {
-	scroll-margin-top: 150px;
-	margin-bottom: 20%;
-	border-right: 1px solid #fff;
-	padding-right: 30px;
+  scroll-margin-top: 150px;
+  margin-bottom: 20%;
+  border-right: 1px solid #e84545;
+  padding-right: 30px;
 }
 
 .description h2 {
-	font-weight: 700;
-	font-size: 1.2rem;
-	letter-spacing: 2px;
-	text-align: end;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+  text-align: end;
+  color: var(--dark-red);
 }
 .description p {
-	font-size: 1rem;
-	margin-bottom: 20px;
-	font-weight: 200;
-	line-height: 1.5;
+  font-size: 1rem;
+  margin-bottom: 20px;
+  font-weight: 300;
+  line-height: 1.5;
 }
