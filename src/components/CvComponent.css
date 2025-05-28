@@ -41,7 +41,7 @@ ul {
   line-height: 1.7;
 }
 .li a {
-  text-decoration: none;
+  /* text-decoration: none; */
   color: var(--secondary-color);
   font-weight: 700;
 }
