@@ -176,7 +176,7 @@ const CvComponent = ({ reference }) => {
       </div>
 
       <div className="cv-section">
-        <p className="cv-date">2009-2012</p>
+        <p className="cv-date">2009-Present</p>
         <div>
           <p className="cv-section-title">Education & Credentials</p>
           <img src={EducationIcon} alt="" className="ruler-camera-icon"></img>
