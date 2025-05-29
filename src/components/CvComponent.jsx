@@ -93,9 +93,9 @@ const CvComponent = ({ reference }) => {
               <a href="https://www.scottishtecharmy.org/" target="_blank">
                 La Fosse Academy
               </a>{" "}
-              in march, where I was selected for the DevOps deep-dive program
-              after the initial 4 weeks. Gained proficiency in DevOps practices
-              and tools including <span>Docker</span> <span>Kubernetes</span>{" "}
+              , where I was selected for the DevOps deep-dive program after the
+              initial 4 weeks. Gained proficiency in DevOps practices and tools
+              including <span>Docker</span> <span>Kubernetes</span>{" "}
               <span>Terraform</span> <span>Azure DevOps</span> and{" "}
               <span>AWS DevOps</span>.
             </li>
@@ -182,10 +182,30 @@ const CvComponent = ({ reference }) => {
           <img src={EducationIcon} alt="" className="ruler-camera-icon"></img>
           <ul>
             <li className="li">
-              BSc Management Economics, Spiru Haret University, Bucharest
+              Spiru Haret University, Bucharest - BSc Management Economics
             </li>
             <li className="li">
-              Spiru Haret High School A-Level in Electrical Engineering
+              Spiru Haret High School - A Level in Electrical Engineering
+            </li>
+            <li className="li">ISC2 - Certified in Cybersecurity</li>
+            <li className="li">
+              Completed AWS Practitioner Essential course - Certification in
+              progress
+            </li>
+            <li className="li">
+              <strong>
+                {" "}
+                <a href="https://www.lafosseacademy.com/" target="_blank">
+                  La Fosse Academy
+                </a>{" "}
+                - Cloud and DevOps:
+              </strong>{" "}
+              Specialized training in containerisation, microservices
+              architecture, and CI/CD pipelines. Hands-on experience with{" "}
+              <span>Docker</span>, <span>Kubernetes</span>,{" "}
+              <span>Terraform</span>,<span>Azure DevOps</span>,{" "}
+              <span>Jenkins</span>, <span>Ansible</span>,<span>AWS</span>,{" "}
+              <span>Azure</span>, and <span>Google Cloud Platform</span>.
             </li>
           </ul>
         </div>

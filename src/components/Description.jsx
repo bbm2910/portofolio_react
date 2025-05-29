@@ -6,16 +6,16 @@ const Description = ({ reference }) => {
         <h2>&lt; Welcome/&gt;</h2>
       </div>
       <p>
-        A adaptable Full Stack Developer with a unique background that includes
-        experience in television production and entrepreneurship. During my ten
-        years in news production, I developed strong skills in working under
-        pressure, and managing my own painting business in London helped me
-        enhance my problem-solving abilities. My journey into technology began
-        with self-guided learning in WordPress development, which grew into a
-        broader understanding of full-stack development through coursework from
-        The Odin Project. I have had the opportunity to volunteer with the
-        Scottish Tech Army and work with Firebase authentication within a
-        startup setting.
+        I am an adaptable Full Stack Developer with a unique background that
+        includes experience in television production and entrepreneurship.
+        During my ten years in news production, I developed strong skills in
+        working under pressure, and managing my own painting business in London
+        helped me enhance my problem-solving abilities. My journey into
+        technology began with self-guided learning in WordPress development,
+        which grew into a broader understanding of full-stack development
+        through coursework from The Odin Project. I have had the opportunity to
+        volunteer with the Scottish Tech Army and work with Firebase
+        authentication within a startup setting.
       </p>
       <p>
         More recently, I earned the ISC2 Cybersecurity certification and
