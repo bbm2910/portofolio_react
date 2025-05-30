@@ -126,27 +126,20 @@ const CvComponent = ({ reference }) => {
           ></img>
           <ul>
             <li className="li li-act-as-paragraph">
-              As a dedicated team leader, I've consistently showcased
-              outstanding leadership abilities through my adeptness at providing
-              crystal-clear guidance and nurturing a culture of collaboration
-              within my team. I've also excelled in the art of teamwork,
-              fostering strong partnerships with contractors, valuing their
-              specialized insights, and seamlessly integrating their expertise
-              into our project planning and execution.
+              Led teams of 10+ people, providing clear direction and building
+              strong working relationships. Worked closely with contractors,
+              valued their expertise, and made sure everyone was aligned on
+              project goals and timelines.
             </li>
             <li className="li li-act-as-paragraph">
-              My prowess in communication has been a linchpin in ensuring that
-              everyone involved is in perfect harmony with our project goals,
-              fostering a sense of unity and shared purpose. Moreover, my role
-              has extended to reading and deciphering complex technical
-              drawings, skillfully leveraging them to craft meticulous plans and
-              execute projects with precision.
+              Kept all stakeholders informed and on the same page throughout
+              projects. Read and interpreted technical drawings to create
+              detailed project plans and ensure accurate execution.
             </li>
             <li className="li li-act-as-paragraph">
-              Beyond that, I've demonstrated a keen financial acumen, showcasing
-              my decision-making prowess by singlehandedly managing both the
-              commercial and financial budgets of our company, a testament to my
-              exceptional financial stewardship.
+              Managed the company's commercial and financial budgets
+              independently, making key decisions that impacted overall business
+              performance and profitability.
             </li>
           </ul>
         </div>
