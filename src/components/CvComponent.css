@@ -53,10 +53,10 @@ ul {
   line-height: 1.7;
 }
 .li span {
-  background-color: #903749;
+  background-color: #000;
   padding: 0% 1%;
   opacity: 70%;
-  font-weight: 200;
+  font-weight: 600;
 }
 .construction-icon {
   filter: invert();
