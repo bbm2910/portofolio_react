@@ -12,11 +12,11 @@
 
 .menu button,
 button::after {
-  font-family: "Roboto Mono", monospace;
+  /* font-family: "Roboto Mono", monospace; */
   display: block;
-  background: #000;
+  /* background: #000; */
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   color: #fff;
   letter-spacing: 3px;
   box-shadow: 1px 0px 0px #fff;
